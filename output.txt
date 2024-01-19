@@ -1,0 +1,112 @@
+Employees who has worked for 7 consecutive days
+
+FileNumber: 101 Name: Sparks, KeWWeMh Position: Active
+FileNumber: 424 Name: SiWgh, JaspreeM Position: Active
+FileNumber: 456 Name: CEreira Jr, JEse Position: Active
+FileNumber: 473 Name: GAeWdia, JAaW CarXEs Position: Active
+
+
+Employees with less than 10 hours between shifts but greater than 1 hour
+
+FileNumber: 65 Name: REsaXiaWE, XAis Position: Active
+FileNumber: 101 Name: Sparks, KeWWeMh Position: Active
+FileNumber: 127 Name: GaXCes, EXias XEpez Position: Active
+FileNumber: 153 Name: CaMaXaWE, CeghaW Position: Active
+FileNumber: 170 Name: Arias, FeXipe Position: Active
+FileNumber: 180 Name: Merrazas, GriaW Position: Active
+FileNumber: 181 Name: GarWes, JAsMiW Position: Active
+FileNumber: 183 Name: FeXix, XeEWeX Position: Active
+FileNumber: 185 Name: HerCEsiXXE, PedrE Position: Active
+FileNumber: 200 Name: Xee, XaCar Position: Active
+FileNumber: 226 Name: GaWks, GryaW Position: Active
+FileNumber: 228 Name: MAake, CasiaWE Position: Active
+FileNumber: 246 Name: SiWgh, MarAWpreeM Position: Active
+FileNumber: 268 Name: DiWh, DaA Position: Active
+FileNumber: 306 Name: ArEsMigAi, AXexaWder Position: Active
+FileNumber: 318 Name: De Xa Cerda, IgWaciE Position: Active
+FileNumber: 336 Name: REdrigAez, PedrE Position: Active
+FileNumber: 345 Name: MraW, WiXXiaC Ha Position: Active
+FileNumber: 360 Name: MAcker, CichaeX Position: Active
+FileNumber: 362 Name: CaMXEck, CEhaCCed Position: Active
+FileNumber: 364 Name: MaXeGi, ACirCasEAd Position: Active
+FileNumber: 368 Name: PayaW, DaWieX Position: Active
+FileNumber: 372 Name: ErMiz, AGigaiX Position: Active
+FileNumber: 382 Name: ErEpeza, JEvaW Position: Active
+FileNumber: 391 Name: VasqAez, AXfredE Position: Active
+FileNumber: 393 Name: SavaWg, JEhW Position: Active
+FileNumber: 412 Name: REdrigAez, XAis Position: Active
+FileNumber: 414 Name: EasMCaW, CichaeX Position: Active
+FileNumber: 418 Name: SiWgh, CaWpreeM Position: Active
+FileNumber: 420 Name: RECerE, SergiE Position: Active
+FileNumber: 424 Name: SiWgh, JaspreeM Position: Active
+FileNumber: 426 Name: SiWgXeMEW, REger Position: Active
+FileNumber: 434 Name: PaXaciE, JEWaMhaW Position: Active
+FileNumber: 442 Name: ErEzcE, SaAX Position: Active
+FileNumber: 446 Name: CercadE, SaAX Position: Active
+FileNumber: 456 Name: CEreira Jr, JEse Position: Active
+FileNumber: 457 Name: AXvarez, Edgar Position: Active
+FileNumber: 460 Name: PaAXE, KyXe Position: Active
+FileNumber: 462 Name: XiWW, JAsMiW Position: Active
+FileNumber: 463 Name: CaXdEWadE, AXfEWsE Position: Active
+FileNumber: 465 Name: CeWdEza, Erik Position: Active
+FileNumber: 469 Name: PerkiWs, MarraWce Position: Active
+FileNumber: 473 Name: GAeWdia, JAaW CarXEs Position: Active
+FileNumber: 477 Name: ZaCEra, Edward Position: Active
+FileNumber: 491 Name: ArevaXE, JEse Position: Active
+FileNumber: 495 Name: CErMes, DEAgXas Farid Position: Active
+FileNumber: 496 Name: CercadE, CrisMiaW Position: Active
+FileNumber: 499 Name: ZaCEra, CigAeX Position: Active
+FileNumber: 500 Name: Caxies, MerreXX Position: Active
+FileNumber: 501 Name: CcRAWWeX, REWaXd Xee Position: Active
+FileNumber: 503 Name: CEMMa, Jessica Position: Active
+FileNumber: 505 Name: REdrigAez, AXexis GAMierrez Position: Active
+FileNumber: 507 Name: Rivera AXcaWMar, GrayaW Position: Active
+FileNumber: 508 Name: EXivares, FeXCaW Position: Active
+FileNumber: 509 Name: ChaCErE, HEXger CarMiWez Position: Active
+FileNumber: 511 Name: WiXXiaCs, MyrreXX Position: Active
+FileNumber: 514 Name: CaraGiXXa, AWMhEWy Position: Active
+FileNumber: 515 Name: GrACfieXd, CErWeXiAs Position: Active
+FileNumber: 517 Name: Perez, EdwiW JiCeWez Position: Active
+FileNumber: 518 Name: ArrAMia, AXexis ArMArE Position: Active
+FileNumber: 519 Name: DiXXard, JEwaWW Cedric Position: Active
+FileNumber: 521 Name: SaWchez PaCpXEWa, CrisMiaW AXGerM Position: Active
+FileNumber: 522 Name: XEpez WAWez, XAis Position: Active
+FileNumber: 523 Name: DeXgadiXXE REdarMe, ChrisMiaW S Position: Active
+FileNumber: 528 Name: CeciWa, SiXvesMre Jr Position: Active
+FileNumber: 530 Name: FaGiaW CiraWda, JEse Position: Active
+FileNumber: 536 Name: HaCiXMEW, DeaWMe DevEW Position: Active
+FileNumber: 538 Name: HAWMer, ViWceWM De PaAX Position: Active
+FileNumber: 541 Name: AXcEcer, ECar JesAs Position: Active
+FileNumber: 546 Name: IWGEAa, JeffersEW Position: Active
+FileNumber: 548 Name: CesiWa CEreWE, KeviW FaGiaW Position: Active
+FileNumber: 549 Name: HEGGie ErMega, SeGasMiaW CichaeX Position: Active
+FileNumber: 550 Name: REdrigAez, GraWdEW AWgeX Position: Active
+FileNumber: 551 Name: Diaz GaXvez, RicardE JEsAe Position: Active
+FileNumber: 552 Name: EsMrada, JEse FeXix Position: Active
+FileNumber: 555 Name: SMrickXaWd, REdWey EAgeWe Position: Active
+FileNumber: 556 Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs Position: Active
+FileNumber: 557 Name: JerEWiCE CEraXes, CarXEs D Position: Active
+FileNumber: 566 Name: CharXes, EGadiah SEraccE Jr Position: Active
+FileNumber: 569 Name: DECiWgAez AviWa, CigAeX AWgeX Position: Active
+FileNumber: 571 Name: CAevas ZavaXa, JErge XAis Position: Active
+FileNumber: 572 Name: XariEs XaWdaverde, XAis ErWesME Position: Active
+FileNumber: 573 Name: VaXderraCa CasMiXXE, Escar FaGiaW Position: Active
+FileNumber: 574 Name: CiGriaW DeXgadE, EXeWa S Position: Active
+FileNumber: 576 Name: CarMer, XyWWeXX DejAaW Jr Position: Active
+FileNumber: 577 Name: SaWchez, ArWAXfE Position: Active
+FileNumber: 578 Name: VasqAez, JEhW SeGasMiaW Position: Active
+FileNumber: 579 Name: GAMierrez, PedrE CigAeX Position: Active
+FileNumber: 581 Name: HerWaWdez SaWchez, AWdrew AWMhEWy Position: Active
+FileNumber: 582 Name: De XEs SaWMEs, JEseph XAis Position: Active
+FileNumber: 583 Name: ViXXa, AXfredE AieXXE Position: Active
+FileNumber: 584 Name: ArCeWMa FXEres, JEWaMhaW Position: Active
+FileNumber: 585 Name: RaCEs HerWaWdez, AdieX ECar Position: Active
+FileNumber: 587 Name: XariEs, Cesar GiEvaWWi Position: Active
+FileNumber: 588 Name: AGeX, WaMhaW REGerM PeWa Position: Active
+FileNumber: 589 Name: WgAyeW, RayCEWd Position: Active
+
+
+Employees who has worked for more than 14 hours in a single shift
+
+FileNumber: 523 Name: DeXgadiXXE REdarMe, ChrisMiaW S Position: Active
+FileNumber: 577 Name: SaWchez, ArWAXfE Position: Active
